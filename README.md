@@ -10,4 +10,4 @@ This is a simple and interactive currency converter web application that allows 
 - HTML
 - CSS
 - JavaScript
-- "(ExchangeRate-API" for live rates)
+- ("ExchangeRate-API" for live rates)
